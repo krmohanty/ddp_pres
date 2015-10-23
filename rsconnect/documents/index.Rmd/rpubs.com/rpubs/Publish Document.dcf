@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/120043/e59a57fcc8a74fe393d842f00fabcb44
+url: http://rpubs.com/kmohanty/120043
+when: 1445637601.13443
